@@ -1,7 +1,10 @@
 ---
 layout: intro
 ---
-<h1 style="color:#5B9E48">What is AOP?</h1>
+<Title value="What is AOP?" />
 
-* A programming paradigm - <span style="color:#5B9E48">Aspect Oriented Programming</span>
-* Goal : Increase <span style="color:#5B9E48">Modularity</span> by allowing separation of <span style="color:#5B9E48">Cross-Cutting-Concern</span>
+* A Programming Paradigm : Fundamental style or approach for writing computer programs
+* Long Term : <Text value="Aspect-Oriented Programming" />
+* Goal : Increase <Text value="Modularity" /> by separation of <Text value="Cross-Cutting-Concern" />
+* Key Unit : <Text value="Aspect" /> (Object in OOP - Object-Oriented Programming)
+* Usage : Logging, Transaction Management, Caching, Middlewares & so on (AOP isn't <Text value="not just Logging" />)
